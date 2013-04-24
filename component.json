@@ -1,0 +1,23 @@
+{
+  "name": "keycode-display",
+  "repo": "edmellum/keycode-display",
+  "description": "Display the keycode for the pressed key",
+  "version": "0.0.1",
+  "keywords": [
+    "keycode"
+  ],
+  "dependencies": {
+    "component/event": "0.1.0",
+    "component/domify": "*",
+    "tmcw/happen": "*",
+    "timoxley/assert": "*"
+  },
+  "development": {
+    "visionmedia/mocha": "*"
+  },
+  "license": "MIT",
+  "scripts": [
+    "index.js",
+    "template.js"
+  ]
+}

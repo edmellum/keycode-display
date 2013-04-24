@@ -1,0 +1,1 @@
+module.exports = '<div class="keycode-display"></div>\n';

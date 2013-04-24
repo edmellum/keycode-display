@@ -2,7 +2,7 @@
   "name": "keycode-display",
   "repo": "edmellum/keycode-display",
   "description": "Display the keycode for the pressed key",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "keywords": [
     "keycode"
   ],
